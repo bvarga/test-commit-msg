@@ -1,5 +1,5 @@
 # test-commit-msg
 
-modification 4
+modification 5
 
 
